@@ -34,7 +34,7 @@ export default [
         preprocess: sveltePreprocess(),
       }),
     ],
-    external: ['react', 'react-dom'],
+    external: ['svelte'],
   },
   {
     input: './dist/esm/build/index.d.ts',
