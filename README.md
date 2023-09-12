@@ -4,6 +4,10 @@ Primitive and flexible state management for Svelte based on [Jotai](https://gith
 
 Experimental. Check [this](https://github.com/pmndrs/jotai/discussions/1514) for more info.
 
+## Demo
+
+[Demo](https://stackblitz.com/edit/vitejs-vite-myurs9?file=src%2FApp.svelte)
+
 ## Installation
 
 ```bash
